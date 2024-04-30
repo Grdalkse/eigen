@@ -1,0 +1,7 @@
+{
+  "name": "grdal",
+  "website": "<YOUR_WEBSITE>",
+  "description": "eigenavsgrdal",
+  "logo": "https://www.example.com/logo.png",
+  "twitter": "<https://twitter.com/grdal_kse>"
+}
