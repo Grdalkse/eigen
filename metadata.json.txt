@@ -2,6 +2,6 @@
   "name": "grdal",
   "website": "<YOUR_WEBSITE>",
   "description": "eigenavsgrdal",
-  "logo": "https://www.example.com/logo.png",
+  "logo": "https://github.com/Grdalkse/eigen/blob/main/ekran.jpg",
   "twitter": "<https://twitter.com/grdal_kse>"
 }
